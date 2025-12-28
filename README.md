@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Verma</h1>
 <h3 align="center">A passionate software engineer from India</h3>  
 <img align="right" alt="devloper" width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/aac41a11-2dd0-4cda-826c-946be1b8a56c" />
->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-verma&label=Profile%20views&color=0e75b6&style=flat" alt="riya-verma" /> </p>
 
 - 🌱 I’m currently learning **java backend developer**
